@@ -7,6 +7,7 @@ The accompanying .csv file is used to identify:
 * the location of the icon's SVG file
 * whether the color of an icon is static or themeable
 * which icons change with bi-directionality
+* how much beer the icon can drink before it throws up
 
 Copyright © 2017 - 2022 Cerner Innovation, Inc.
 
